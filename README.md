@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋, I'm Shweta
+  **A passionate Data Science & Machine Learning Enthusias**
 <!--
 **ShwetaGurram/ShwetaGurram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+### Skills  
+
+#### Programming & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="50" height="50"/>
+</p>
+
+#### Data Science Libraries  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>  
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50" height="50"/> 
+<!--  <img src="https://upload.wikimedia.org/2023/05/scikit-learn-logo-notext.png" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/> -->
+</p>
+
+#### Visualization & BI  
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48"/> 
+</p>
+
