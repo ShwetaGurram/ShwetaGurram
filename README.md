@@ -42,3 +42,19 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48"/> 
 </p>
 
+
+---
+### Connect with Me  
+
+<a href="shwetagurram9@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" style="background-color:white;"/>
+</a>
+<a href=" www.linkedin.com/in/shwetagurram" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+</a>
+
+---
+### Profile Visitors   
+
+<img src="https://komarev.com/ghpvc/?username=ShwetaGurram&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
