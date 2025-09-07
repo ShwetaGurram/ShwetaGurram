@@ -46,12 +46,16 @@ Here are some ideas to get you started:
 ---
 ### Connect with Me  
 
+<!-- Gmail Link -->
 <a href="shwetagurram9@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" style="background-color:white;"/>
 </a>
-<a href=" www.linkedin.com/in/shwetagurram" target="_blank">
+
+<!-- LinkedIn Link -->
+<a href="https://www.linkedin.com/in/shwetagurram/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
 </a>
+
 
 ---
 ### Profile Visitors   
