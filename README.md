@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ### Connect with Me  
 
 <!-- Gmail Link -->
-<a href="shwetagurram9@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" style="background-color:white;"/>
+<a href="mailto:shwetagurram9@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" style="background-color:white;" alt="Email me via Gmail"/>
 </a>
 
 <!-- LinkedIn Link -->
