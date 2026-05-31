@@ -4,13 +4,8 @@ Data Analyst · SQL · Python · Power BI
 
 [LinkedIn](https://www.linkedin.com/in/shwetagurram) · [Email](mailto:shwetagurram9@gmail.com)
 
----
 
-## About
-
-Final-year engineering student focused on data analysis and visualization. I work across the full analytics pipeline — cleaning and transforming data with Pandas, extracting insights with SQL, and presenting findings through Power BI dashboards built for non-technical audiences.
-
-Currently seeking full-time Data Analyst roles starting mid-2026.
+Currently seeking full-time Data Analyst roles.
 
 ---
 
@@ -31,13 +26,14 @@ Currently seeking full-time Data Analyst roles starting mid-2026.
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis">
-        <img src="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis/raw/main/assets/dashboard-preview.png" alt="Retail Customer Behavior Analysis" width="100%"/>
+        <img src="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis/blob/main/image.png" alt="Retail Customer Behavior Analysis" width="100%"/>
       </a>
       <br/>
       <b>Retail Customer Behavior Analysis</b>
       <br/>
       <sub>Python · Pandas · SQL · Power BI</sub>
     </td>
+    <!--
     <td align="center" width="33%">
       <a href="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis">
         <img src="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis/raw/main/assets/airline-preview.png" alt="Airline Operations EDA" width="100%"/>
@@ -47,7 +43,7 @@ Currently seeking full-time Data Analyst roles starting mid-2026.
       <br/>
       <sub>Python · Pandas · PostgreSQL · Power BI</sub>
     </td>
-    <!--
+    
     THIRD PROJECT — uncomment and fill in when ready
 
     <td align="center" width="33%">
@@ -65,7 +61,7 @@ Currently seeking full-time Data Analyst roles starting mid-2026.
 </table>
 
 ---
-
-### Profile Visitors   
-
-<img src="https://komarev.com/ghpvc/?username=ShwetaGurram&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+ 
+## Profile Visitors
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=ShwetaGurram&label=Profile%20Views&color=0077B5&style=flat)
