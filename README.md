@@ -1,57 +1,71 @@
-## Hi 👋, I'm Shweta
-  **A passionate Data Analyst**
-<!--
-**ShwetaGurram/ShwetaGurram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Shweta Gurram
 
-Here are some ideas to get you started:
+Data Analyst · SQL · Python · Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/shwetagurram) · [Email](mailto:shwetagurram9@gmail.com)
 
 ---
-### Skills  
 
-#### Programming & Tools   
+## About
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://img.icons8.com/ios-filled/50/database.png" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="50"/>
-</p>
+Final-year engineering student focused on data analysis and visualization. I work across the full analytics pipeline — cleaning and transforming data with Pandas, extracting insights with SQL, and presenting findings through Power BI dashboards built for non-technical audiences.
 
-#### Data Science Libraries  
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-</p>
-
-
-#### Visualization & BI  
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48"/> 
-</p>
-
+Currently seeking full-time Data Analyst roles starting mid-2026.
 
 ---
-### Connect with Me  
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50"/>](mailto:shwetagurram9@gmail.com)
-&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>](https://www.linkedin.com/in/shwetagurram/)
+## Skills
+
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, PostgreSQL |
+| Analysis | Pandas, NumPy, Advanced Excel |
+| Visualization | Microsoft Power BI |
+| Methods | EDA, Data Cleaning, Customer Segmentation, KPI Reporting |
 
 ---
+
+## Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis">
+        <img src="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis/raw/main/assets/dashboard-preview.png" alt="Retail Customer Behavior Analysis" width="100%"/>
+      </a>
+      <br/>
+      <b>Retail Customer Behavior Analysis</b>
+      <br/>
+      <sub>Python · Pandas · SQL · Power BI</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis">
+        <img src="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis/raw/main/assets/airline-preview.png" alt="Airline Operations EDA" width="100%"/>
+      </a>
+      <br/>
+      <b>Airline Operations EDA</b>
+      <br/>
+      <sub>Python · Pandas · PostgreSQL · Power BI</sub>
+    </td>
+    <!--
+    THIRD PROJECT — uncomment and fill in when ready
+
+    <td align="center" width="33%">
+      <a href="https://github.com/ShwetaGurram/YOUR-REPO-NAME">
+        <img src="https://github.com/ShwetaGurram/YOUR-REPO-NAME/raw/main/assets/dashboard-preview.png" alt="Project Title" width="100%"/>
+      </a>
+      <br/>
+      <b>Project Title</b>
+      <br/>
+      <sub>Tool · Tool · Tool</sub>
+    </td>
+
+    -->
+  </tr>
+</table>
+
+---
+
 ### Profile Visitors   
 
 <img src="https://komarev.com/ghpvc/?username=ShwetaGurram&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
