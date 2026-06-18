@@ -31,19 +31,19 @@ Currently seeking full-time Data Analyst roles.
       <br/>
       <b>Retail Customer Behavior Analysis</b>
       <br/>
-      <sub>Python · Pandas · SQL · Power BI</sub>
-    </td>
-    <!--
-    <td align="center" width="33%">
-      <a href="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis">
-        <img src="https://github.com/ShwetaGurram/Retail-company-customer-behavior-analysis/raw/main/assets/airline-preview.png" alt="Airline Operations EDA" width="100%"/>
-      </a>
-      <br/>
-      <b>Airline Operations EDA</b>
-      <br/>
-      <sub>Python · Pandas · PostgreSQL · Power BI</sub>
+      <sub>Python · SQL · Power BI</sub>
     </td>
     
+    <td align="center" width="33%">
+      <a href="https://github.com/ShwetaGurram/P-and-L-Variance-Analysis">
+        <img src="https://github.com/ShwetaGurram/P-and-L-Variance-Analysis/blob/main/Home_page.png" alt="Airline Operations EDA" width="100%"/>
+      </a>
+      <br/>
+      <b>P&L Variance Analysis</b>
+      <br/>
+      <sub>PostgreSQL · Power Query · Power BI</sub>
+    </td>
+    <!--
     THIRD PROJECT — uncomment and fill in when ready
 
     <td align="center" width="33%">
