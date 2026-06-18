@@ -33,7 +33,7 @@ Currently seeking full-time Data Analyst roles.
       <br/>
       <sub>Python · SQL · Power BI</sub>
     </td>
-    
+    <!--
     <td align="center" width="33%">
       <a href="https://github.com/ShwetaGurram/P-and-L-Variance-Analysis">
         <img src="https://github.com/ShwetaGurram/P-and-L-Variance-Analysis/blob/main/Home_page.png" alt="Airline Operations EDA" width="100%"/>
@@ -43,7 +43,7 @@ Currently seeking full-time Data Analyst roles.
       <br/>
       <sub>PostgreSQL · Power Query · Power BI</sub>
     </td>
-    <!--
+    
     THIRD PROJECT — uncomment and fill in when ready
 
     <td align="center" width="33%">
