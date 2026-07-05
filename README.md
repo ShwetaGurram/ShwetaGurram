@@ -47,6 +47,22 @@ Python • SQL • Power BI
 SQL • Power Query • Power BI
 
 </td>
+
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### Superstore Business Unit Profitability Analysis
+
+<a href="https://github.com/ShwetaGurram/Superstore-Business-Unit-Profitability-Analysis">
+<img src="https://github.com/ShwetaGurram/Superstore-Business-Unit-Profitability-Analysis/blob/main/Dashboard_image.png" width="100%">
+</a>
+
+SQL • Excel • Power Query • Power BI
+
+</td>
+ 
 </tr>
 </table>
 
